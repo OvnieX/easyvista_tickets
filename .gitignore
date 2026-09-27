@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Logs / temporaires
+*.log
+*.tmp
+~$*
+
+# Données EasyVista et classeurs générés
+# Ne pas publier de données réelles de tickets.
+*.csv
+*.xlsx
+*.xls
